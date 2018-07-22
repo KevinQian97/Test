@@ -20,6 +20,7 @@ import jieba
 import urllib.request
 
 import re  
+import io
   
 #测试函数->读取  
 #def test():  
